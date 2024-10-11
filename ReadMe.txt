@@ -6,6 +6,9 @@ http://www.softelectro.ru/ieee754.html
 http://www.softelectro.ru/ieee754.html
 
 TODO:
+1. Создать Базу в SQL Server используя CREATE TABLE;
+
+DONE:
 1. Создать Базу в SQL Server;
 2. Почитать: https://learn.microsoft.com/en-us/cpp/c-runtime-library/single-byte-and-multibyte-character-sets?view=msvc-170
 
