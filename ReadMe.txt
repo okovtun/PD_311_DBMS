@@ -6,6 +6,9 @@ http://www.softelectro.ru/ieee754.html
 http://www.softelectro.ru/ieee754.html
 
 TODO:
+1. Добить Базу (Расписание и оценки);
+
+DONE:
 1. Создать Базу в SQL Server используя CREATE TABLE;
 
 DONE:

@@ -1,6 +1,3 @@
-USE master;
-GO
-
 CREATE DATABASE PD_311_DDL
 ON 
 (
