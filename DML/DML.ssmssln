@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 20.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataBaseCreation", "DataBaseCreation\DataBaseCreation.ssmssqlproj", "{5545B34C-660F-45A7-A0C2-DD0265688546}"
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "DML\DML.ssmssqlproj", "{9EBE1163-ADBF-474E-B68C-F75290631907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{63960AF4-9162-44FC-9720-BD31DBDA1100}.Default|Default.ActiveCfg = Default
-		{5545B34C-660F-45A7-A0C2-DD0265688546}.Default|Default.ActiveCfg = Default
+		{875AE5C5-5C9F-48C2-A456-A7174E82A405}.Default|Default.ActiveCfg = Default
+		{9EBE1163-ADBF-474E-B68C-F75290631907}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F0923A19-B3DD-4E9C-A7D7-34A5DD54FC8E}
+		SolutionGuid = {56900B3E-F293-4276-9CFA-EDFA058598DB}
 	EndGlobalSection
 EndGlobal
