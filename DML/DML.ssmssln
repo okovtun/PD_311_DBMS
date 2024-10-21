@@ -5,13 +5,19 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "DML\DML.ssmssqlproj", "{9EBE1163-ADBF-474E-B68C-F75290631907}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SELECT_Data", "SELECT_Data\SELECT_Data.ssmssqlproj", "{45FCA693-7CDD-41C9-942C-755B00499EE9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Schedule", "Schedule\Schedule.ssmssqlproj", "{A9B47A4A-171B-4961-BB5E-DBB43CC1EFD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{875AE5C5-5C9F-48C2-A456-A7174E82A405}.Default|Default.ActiveCfg = Default
 		{9EBE1163-ADBF-474E-B68C-F75290631907}.Default|Default.ActiveCfg = Default
+		{45FCA693-7CDD-41C9-942C-755B00499EE9}.Default|Default.ActiveCfg = Default
+		{E1E6052D-3A3D-4AEA-987E-B7021CE6C70C}.Default|Default.ActiveCfg = Default
+		{A9B47A4A-171B-4961-BB5E-DBB43CC1EFD5}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
