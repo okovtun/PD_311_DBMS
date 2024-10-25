@@ -40,6 +40,18 @@
           <AssociatedConnUserName />
           <FullPath>SQLQuery2 - CREATE Procedure.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery3 - CREATE sp_AddAlternatingDisciplineToSchedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0TCDSR6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0TCDSR6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3 - CREATE sp_AddAlternatingDisciplineToSchedule.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3 - CREATE sp_AddScheduleForBaseStacionar.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-0TCDSR6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-0TCDSR6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3 - CREATE sp_AddScheduleForBaseStacionar.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
